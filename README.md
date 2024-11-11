@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 🔭 **I’m currently working on:** <br>Supabase.<br><br>👯 **I’m looking to collaborate on:** <br>Fullstack projects<br><br>🌱 **I’m currently learning:** <br>DevOps<br><br>💬 **Ask me about:** <br>JavaScript, React, Node.js, MERN and any general software development questions.<br><br>📫 **How to reach me:** <br>anshsingh1x@gmail.com<br><br>⚡ **Fun fact:** <br>I love Plants🪴
 
